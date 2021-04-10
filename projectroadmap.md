@@ -1,8 +1,8 @@
- [] Find related example
- [] https://www.youtube.com/watch?v=iWi4Z-5JNZw
- [] Evaluate and run related program
- [] Use as reference in building code to make first map definition
- [] Successfully block one website of choice
- [] Get basic layout completed
- [] Add all sites that need to be blocked
- [] Test on my computer
+- [] Find related example
+- [] https://www.youtube.com/watch?v=iWi4Z-5JNZw
+- [] Evaluate and run related program
+- [] Use as reference in building code to make first map definition
+- [] Successfully block one website of choice
+- [] Get basic layout completed
+- [] Add all sites that need to be blocked
+- [] Test on my computer
