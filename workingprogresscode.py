@@ -10,3 +10,12 @@ redict = "127.0.0.1"
 
 website_list = ["www.facebook.com","facebook.com","www.instagram.com","instagram.com"]
 # here is where you enter what websites to block.
+
+
+#We need to mention a specific time in which you can block the websites, for this we are using the daytime package.
+
+while True:
+      
+    # time of your work
+    if dt(dt.now().year, dt.now().month, dt.now().day,8) 
+    < dt.now() < dt(dt.now().year, dt.now().month, dt.now().day,16):
