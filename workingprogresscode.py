@@ -8,3 +8,5 @@ hosts_path = "/etc/hosts"
 redict = "127.0.0.1"
 #we are working on the host file. we will be mapping hostnames of websites to our local address.
 
+website_list = ["www.facebook.com","facebook.com","www.instagram.com","instagram.com"]
+# here is where you enter what websites to block.
